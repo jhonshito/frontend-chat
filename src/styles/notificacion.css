@@ -1,0 +1,33 @@
+
+.contenedor-notificacion{
+    display: flex;
+    justify-content: space-between;
+}
+
+.notificacion-cantidad{
+    display: flex;
+}
+
+.notificacion{
+    margin-left: 30px;
+    margin-top: 20px;
+    font-weight: 800;
+}
+
+.cantidad{
+    padding: 2px 14px;
+    height: 32px;
+    border: 1px solid hsl(219, 85%, 26%);
+    margin-left: 15px;
+    margin-top: 23px;
+    border-radius: 10px;
+    background-color: hsl(219, 85%, 26%);
+    color: white;
+}
+
+.texto-cabezera{
+    margin-top: 28px;
+    margin-right: 25px;
+    color: hsl(219, 12%, 42%);
+    font-size: 16px;
+}
